@@ -3,7 +3,7 @@ h1 {
     color: aquamarine;
 }
 p{
-    font-size: 25px;
+    font-size: 12px;
     color: blanchedalmond;
 }
 body{
@@ -11,8 +11,25 @@ body{
     border-top: cadetblue;
     background-color: darkorange;
 }
+.highlight{
+    background: yellow;
+
+}
+.accent-color{
+    color : red;
+}
 div {
-    background: pink;
+
     width:500px;
     height:500px;
+}
+.intro{
+    background: greenyellow;
+    font-size: 30px;
+}
+.top-section{
+    background: black;
+}
+.bottom-section{
+    background: green;
 }

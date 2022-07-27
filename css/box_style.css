@@ -1,0 +1,30 @@
+body{
+    background-color: lightseagreen;
+    color: black;
+    font-size: 20px;
+}
+h1{
+    font-size: 70px;
+    color: red;
+}
+p{
+    color: #2f4c5c;
+}
+/* the CSS box model */
+/* Margin:與旁邊的距離
+   Border: 邊界線
+   Padding:empty space with background around my element
+
+   All of these ADD on top of the width and height
+ */
+.box{
+    background: pink;
+    width: 300px;
+    margin: 100px;
+    
+    border: 15px solid green;
+
+    border-style: dotted;
+    padding: 500px;
+            /*top right bottom left */
+}
