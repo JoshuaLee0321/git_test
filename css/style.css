@@ -1,0 +1,18 @@
+body {
+    background-color: burlywood;
+    color: blueviolet;
+    font-size: 20px;
+}
+p {
+    color: blue;
+    font-size: small
+}
+h1 {
+    font-size: 70px;
+    color: pink;
+}
+myOwn{
+    font-weight: 300;
+    font: calc();
+    color: darkcyan;
+}
